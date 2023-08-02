@@ -1,0 +1,40 @@
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+  background-color: #00344c;
+  font-size: 1.1em;
+}
+
+.buttonGonder {
+  color: black;
+  margin-left: 0.7rem;
+  background-color: rgb(177, 214, 246);
+  border-radius: 10px;
+  border-style: none;
+  padding: 10px;
+}
+
+.inputAlanı {
+  background-color: rgb(177, 214, 246);
+  padding: 10px;
+  border-style: none;
+  border-radius: 10px;
+}
+
+.resim {
+  height: 15rem;
+  max-height: 50vh;
+}
+
+.lastDeger {
+  color: white;
+}
+
+.baslik {
+  font-family: inherit;
+  color: rgb(177, 214, 246);
+  text-shadow: 0px 0px 40px white;
+}
